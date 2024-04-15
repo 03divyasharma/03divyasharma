@@ -5,6 +5,8 @@ I'm an Artificial Intelligence student with a passion for Machine Learning. I lo
 ## About Me
 💼 Currently Machine Learning Project Intern @iNeuron.ai
 
+🌱 Currently learning System Design and System architecture
+
 🌱 Constantly learning and expanding my skills in Machine Learning and Python programming
 
 📫 Reach me at ds.divyasharma03@gmail.com
