@@ -13,7 +13,7 @@ I'm an Artificial Intelligence student with a passion for Machine Learning. I lo
 
 Languages:Python 
 
-Frameworks & Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Flask
+Frameworks & Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn
 
 Databases: MySQL
 
