@@ -3,9 +3,7 @@
 I'm an Artificial Intelligence student with a passion for Machine Learning. I love exploring AI and it's applicatins in various domains. 
 
 ## About Me
-💼 Currently Machine Learning Project Intern @iNeuron.ai
-
-🌱 Currently learning System Design and System architecture
+💼 Former Machine Learning Project Intern @iNeuron.ai
 
 🌱 Constantly learning and expanding my skills in Machine Learning and Python programming
 
