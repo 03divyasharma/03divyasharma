@@ -3,9 +3,10 @@
 I'm an Artificial Intelligence student with a passion for Machine Learning. I love exploring AI and it's applicatins in various domains. 
 
 ## About Me
-💼 Former Machine Learning Project Intern @iNeuron.ai
-
-🌱 Constantly learning and expanding my skills in Machine Learning and Python programming
+💼 Team Lead, Machine Learning Engineer @Feynn Labs
+    Former Machine Learning Project Intern @iNeuron.ai
+    
+🌱 For my curiosity in the overlap between neuroscience and machine learning, I am currently pursuing a course in computational neuroscience as my first foray into this interest.
 
 📫 Reach me at ds.divyasharma03@gmail.com
 
@@ -17,9 +18,9 @@ Frameworks & Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn
 
 Databases: MySQL
 
-Tools & Platforms: GitHub, Leetcode, GFG
+Tools & Platforms: GitHub, Leetcode
 
-Other Skills: Leadership, Public Speaking
+Soft Skills: Leadership, Public Speaking, Team Management
 
 ## Projects
 
@@ -27,7 +28,7 @@ Here are a few projects I'm proud of:
 
 [Phishing-Website-Detector](https://github.com/03divyasharma/Phishing-Website-Detector): Built an ML classification model demonstrating MLOps, including CI/CD pipeline. Deployed on Azure Static Web App
 
-[PhishingWebsiteDetector](https://github.com/03divyasharma/PhishingWebsiteDetector): Built the same ML classification model without MLOps. Deployed on Azure Static Web App
+[Customer-Segementation](https://github.com/03divyasharma/Customer-Segmentation): Segementation based on RFM profiling
 
 [Event-Detection-Sensor](https://github.com/03divyasharma/Event-Detection-Sensor): Worked on data preprocessing steps demonstrating Pandas and NumPy skills for three different datasets
 
