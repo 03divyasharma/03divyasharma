@@ -7,6 +7,8 @@ I'm an Artificial Intelligence student with a passion for Machine Learning. I lo
     Former Machine Learning Project Intern @iNeuron.ai
     
 🌱 For my curiosity in the overlap between neuroscience and machine learning, I am currently pursuing a course in computational neuroscience as my first foray into this interest.
+🌱 Currently working on my first reasearch paper for final year college project.
+
 
 📫 Reach me at ds.divyasharma03@gmail.com
 
