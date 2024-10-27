@@ -1,22 +1,22 @@
 ## 👋 Hi there, I'm Divya
 
-I'm an Artificial Intelligence student with a passion for Machine Learning. I love exploring AI and it's applicatins in various domains. 
+I am currently in the fourth year of my bachelor's degree majoring in AI/ML. I have worked on Machine Learning projects for domains of cybersecurity, market and product segmentation and customer intelligence, engaging in both applied and research focused internships. I am adept at adapting to shifting dynamics of teams and business domains without compromising on thoroughness of details in the work assigned to me. 
 
+I love brainstorming ideas and execution strategies that leverage ML, especially my recent interest, Bayesian ML. 
 ## About Me
-💼 Team Lead, Machine Learning Engineer @Feynn Labs
-    Former Machine Learning Project Intern @iNeuron.ai
+💼 Prev. FeyNN Labs, iNeuron Intelligence, GSSOC
     
 🌱 For my curiosity in the overlap between neuroscience and machine learning, I am currently pursuing a course in computational neuroscience as my first foray into this interest.
 🌱 Currently working on my first reasearch paper for final year college project.
 
 
-📫 Reach me at ds.divyasharma03@gmail.com
+📫 Reach out to me at ds.divyasharma03@gmail.com
 
 ## Technologies & Tools
 
-Languages:Python 
+Languages:Python, HTML, CSS, Java
 
-Frameworks & Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn
+Frameworks & Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Plotly
 
 Databases: MySQL
 
