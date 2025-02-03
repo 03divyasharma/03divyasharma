@@ -1,8 +1,7 @@
 ## 👋 Hi there, I'm Divya
 
-I am currently in the fourth year of my bachelor's degree majoring in AI/ML. I have worked on Machine Learning projects for domains of cybersecurity, market and product segmentation and customer intelligence, engaging in both applied and research focused internships. I am adept at adapting to shifting dynamics of teams and business domains without compromising on thoroughness of details in the work assigned to me. 
+I am currently in the fourth year of my bachelor's degree majoring in AI/ML. I love brainstorming ideas and execution strategies that leverage ML, especially my recent interest, Bayesian ML. 
 
-I love brainstorming ideas and execution strategies that leverage ML, especially my recent interest, Bayesian ML. 
 ## About Me
 💼 Prev. FeyNN Labs, iNeuron Intelligence, GSSOC
     
