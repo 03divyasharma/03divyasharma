@@ -76,7 +76,7 @@ Open source contributor (10,000+ StackOverflow salaries analyzed via Python)
 ## 📬 Let’s Connect
 
 - ✉️ Email: [ds.divyasharma03@gmail.com](mailto:ds.divyasharma03@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/divya-sharma](https://linkedin.com/in/divya-sharma)
+- 💼 LinkedIn: [https://www.linkedin.com/in/divya-sharma-6850aa22b/](Divya Sharma)
 
  
 ## 💡 Available for:  
