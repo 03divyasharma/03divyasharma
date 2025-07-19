@@ -1,42 +1,88 @@
-## 👋 Hi there, I'm Divya
+# 👋 Hi, I’m Divya Sharma
 
-I am currently in the fourth year of my bachelor's degree majoring in AI/ML. I love brainstorming ideas and execution strategies that leverage ML, especially my recent interest, Bayesian ML. 
+I’m an AI engineer and full-stack ML developer, currently interning at **Cognizant** after graduating with a B.Tech in Artificial Intelligence & Machine Learning (May 2025).  
 
-## About Me
-💼 Prev. FeyNN Labs, iNeuron Intelligence, GSSOC
-    
-🌱 For my curiosity in the overlap between neuroscience and machine learning, I am currently pursuing a course in computational neuroscience as my first foray into this interest.
-🌱 Currently working on my first reasearch paper for final year college project.
+Recently, I built **InnerVision Studio**,  a production-ready, LLM-powered meditation platform that generates personalized guided audio sessions. 
+It’s calm-tech, end-to-end engineered.
+
+## 🧠 Recent Experience
+
+🧪 **Intern – Cognizant Technology Solutions**  
+Programmer Analyst (Summer 2025)
+
+💡 **FeyNN Labs**  
+ML intern (Clustering, PCA, EV market segmentation, forecasting model)
+
+🔐 **iNeuron Intelligence**  
+Built phishing URL detection SaaS with full CI/CD + deployment on Azure
+
+🌍 **GirlScript Summer of Code**  
+Open source contributor (10,000+ StackOverflow salaries analyzed via Python)
+
+## Inner Vision Studio
+
+🧱 **Infra Highlights**  
+- **FastAPI + Celery + Redis** → Handles concurrency and queues
+- **Cosmos DB** → Tracks sessions, meditation streaks, free limits
+- **Azure Blob + SAS URLs** → Securely stores personalized audio
+- **MLflow** → Logs user prompts, scripts, models, durations
+- **LangChain RAG** → Personalizes meditations from knowledge documents
+- **JWT Auth + CSRF + Rate Limiting** → Secures user access with cookies
+
+---
+
+## 💡 What Makes It Special
+
+✨ Personalized meditations — infused with context, emotion, and affirmations  
+✨ Fully asynchronous backend — built to scale quietly  
+✨ Audio with ambient music — not just TTS, but **experience design**  
+✨ Streaming + polling system — keeps users updated live  
+✨ Built entirely solo — infra, backend, auth, product logic, and deployment
+
+---
+
+## 💻 Technologies I Learnt And Worked With While Building 
+
+| Category       | Stack |
+|----------------|-------|
+| **LLM + NLP**         | GPT-4, Mistral 7B (fine-tuned), LangChain, HuggingFace |
+| **Infra**             | FastAPI, Celery, Redis, Azure Blob, Cosmos DB |
+| **Audio Synthesis**   | Google TTS, SSML, `pydub`, `ffmpeg` |
+| **MLOps / Logging**   | MLflow, experiment tracking, custom prompt logger |
+| **Security**          | JWT, OAuth (Google), CSRF (Double Cookie), rate limiting |
+| **Product Logic**     | Free tier tracking, daily streaks, subscription flow |
+| **Frontend-ready APIs** | SSE streaming, `/status` polling, blob delivery |
+
+---
+
+## 🧠 My Core Values as a Developer
+
+- I not only solve problems but love synthesizing AI solutions  
+- Fan of building solidly engineered stuff.
+
+---
+
+## 👣 My Journey So Far
+
+- 🎓 B.Tech AI & ML (2021–2025)  
+- 🤝 Programmer Analyst @ Cognizant (2025)  
+- 🧪 Internships @ FeyNN Labs, iNeuron  (Core ML Research and Development)
+- 💻 GSSoC contributor (Open-source ML)  
+- 📊 Final year thesis: Bayesian Modeling for Customer Retention  
+- 🌱 Now exploring emotion-aware LLM products
+
+---
+
+## 📬 Let’s Connect
+
+- ✉️ Email: [ds.divyasharma03@gmail.com](mailto:ds.divyasharma03@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/divya-sharma](https://linkedin.com/in/divya-sharma)
+
+ 
+## 💡 Available for:  
+- Architect systems that balance scale, speed, and human impact  
+- Build LLM-powered workflows with thoughtful orchestration and monitoring  
+- Care about latency, streaming, security — and still obsess over user customers 
 
 
-📫 Reach out to me at ds.divyasharma03@gmail.com
 
-## Technologies & Tools
-
-Languages:Python, HTML, CSS, Java
-
-Frameworks & Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Plotly
-
-Databases: MySQL
-
-Tools & Platforms: GitHub, Leetcode
-
-Soft Skills: Leadership, Public Speaking, Team Management
-
-## Projects
-
-Here are a few projects I'm proud of:
-
-[Phishing-Website-Detector](https://github.com/03divyasharma/Phishing-Website-Detector): Built an ML classification model demonstrating MLOps, including CI/CD pipeline. Deployed on Azure Static Web App
-
-[Customer-Segementation](https://github.com/03divyasharma/Customer-Segmentation): Segementation based on RFM profiling
-
-[Event-Detection-Sensor](https://github.com/03divyasharma/Event-Detection-Sensor): Worked on data preprocessing steps demonstrating Pandas and NumPy skills for three different datasets
-
-## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/divya-sharma-6850aa22b/)
-
-<!---
-03divyasharma/03divyasharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
